@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 Hi, I'm Anshika!
+I'm an AI Engineer with an Integrated MTech in AI from VIT, currently exploring exciting job opportunities. I have a strong background in Machine Learning and Natural Language Processing, with four published research papers to my name. My experience includes a research internship at IIT BHU and 11 months as an IT intern at Stryker.
 
 <!--
 **anshika1712/anshika1712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
